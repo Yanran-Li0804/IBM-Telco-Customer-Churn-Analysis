@@ -26,6 +26,13 @@ The main objective of this analysis is to understand **why customers leave the s
 
 ---
 
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Dashboard Overview](dashboard.jpg)
+
+---
+
 ## 📌 Executive Summary
 
 This analysis explores key factors associated with customer churn in a telecom subscription service.
