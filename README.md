@@ -41,40 +41,6 @@ The findings suggest that **contract type, tenure, and pricing** are major drive
 
 ---
 
-## 📊 Key Analysis & Insights
-
-### 1. Churn Rate by Contract Type
-**Insight:**  
-Month-to-month contracts have significantly higher churn compared to long-term contracts.
-
----
-
-### 2. Tenure vs Churn
-**Insight:**  
-Customers with short tenure are more likely to churn.
-
----
-
-### 3. Monthly Charges vs Churn
-**Insight:**  
-Higher monthly charges are associated with higher churn risk.
-
----
-
-### 4. Payment Method vs Churn
-**Insight:**  
-Customers paying via electronic check churn more often than other payment methods.
-
----
-
-## 🔑 Key Takeaways
-
-- Month-to-month contracts show the highest churn rate  
-- Short-tenure customers are the most likely to churn  
-- Higher monthly charges slightly increase churn risk  
-- Electronic check users have higher churn tendency  
-
----
 
 ## 📈 Tools & Technologies
 
